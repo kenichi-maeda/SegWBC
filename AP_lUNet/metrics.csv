@@ -1,0 +1,8 @@
+Metric,Value
+Dice,0.3363
+IoU,0.2022
+Accuracy,0.9751
+Sensitivity,0.4400
+Specificity,0.9829
+TrainingTimeSeconds,1105.89
+BlobCountingAccuracy,-5.5057
